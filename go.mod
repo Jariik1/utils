@@ -1,3 +1,3 @@
-module github.com/Jariik1/utils/v2
+module github.com/Jariik1/utils
 
 go 1.22.0
